@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=214&lines=Hello+there!;My+name+is+Omar+Adel" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate Jr.penetration tester from Egypt and Student at I-TECH FOR APPLIED TECHNOLOGY School (Follows P-TECH Model)
+<h3 align="center">A passionate Jr.penetration tester from Egypt and A Student at I-TECH FOR APPLIED TECHNOLOGY School (Follows P-TECH Model)
 Insanely interested in Cyber Security, breaking into systems has been my passion. and lately working on it to get a major at a penetration testing career
 So I hope I can prove and improve myself .</h3>
 
