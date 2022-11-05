@@ -19,8 +19,6 @@ So I hope I can prove and improve myself .</h6>
 </p>
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 📚 Technical Skills 
 
 - Technical Support Fundamentails , Introduction to network security , Fundamental of Digital Marketing , Cyber Security Fundamental , Computer Network Fundamentals and Front-End Web Development.
