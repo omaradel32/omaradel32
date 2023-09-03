@@ -1,11 +1,9 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=00000000&center=true&vCenter=true&multiline=true&width=1920&height=214&lines=Omar+Adel;Jr.+Penetration+Tester" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=00000000&center=true&vCenter=true&multiline=true&width=1920&height=214&lines=Omar+Adel; Soc Analyst Student" alt="Typing SVG" />
 </h1></a>
 </h1>
 
-<h6 align="center">A passionate Jr.penetration tester from Egypt and A Student at I-TECH FOR APPLIED TECHNOLOGY School (Follows P-TECH Model)
-Insanely interested in Cyber Security, breaking into systems has been my passion. and lately working on it to get a major at a penetration testing career
-So I hope I can prove and improve myself .</h6>
+<h6 align="center">I am  immersed in studying the protection of digital systems and networks from unauthorized access and cyber threats. I gained knowledge in various types of attacks, security technologies, and risk management strategies, with the goal of becoming a skilled professional capable of safeguarding digital assets and contributing to organizational security. Through hands-on experiences and staying updated on industry trends, I develop the practical skills needed to defend against evolving cyber threats.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaradel32&label=Profile%20views&color=0e75b6&style=flat" alt="omaradel32" /> 
 
@@ -21,7 +19,7 @@ So I hope I can prove and improve myself .</h6>
 
 ## 📚 Technical Skills 
 
-- Technical Support Fundamentails , Introduction to network security , Fundamental of Digital Marketing , Cyber Security Fundamental , Computer Network Fundamentals and Front-End Web Development, Ejptv2.
+- Technical Support Fundamentails , Introduction to network security , MCSA , Fundamental of Digital Marketing , Cyber Security Fundamental , Computer Network Fundamentals and Front-End Web Development, Ejptv2.
 -  I’m currently learning **ecpptv2**
 
 
